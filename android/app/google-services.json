@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926516087972",
+    "project_id": "sivailks",
+    "storage_bucket": "sivailks.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926516087972:android:cebef5f317a1517cb42a31",
+        "android_client_info": {
+          "package_name": "com.example.fashion_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALP5Jwio9iL2-PNo2en94PK-AyS8c0j7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
