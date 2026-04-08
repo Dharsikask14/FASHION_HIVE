@@ -15,4 +15,34 @@ Thumbs.db
 # Metadata 
 .metadata 
 # Lock file 
-pubspec.lock 
+# Logs and temp files 
+*.log 
+*.tmp 
+*.temp 
+# Coverage 
+coverage/ 
+# Generated files 
+lib/generated_plugin_registrant.dart 
+# Android 
+android/.gradle/ 
+android/app/build/ 
+android/local.properties 
+*.keystore 
+*.jks 
+# iOS 
+ios/Pods/ 
+ios/.symlinks/ 
+ios/Flutter/Flutter.framework 
+ios/Flutter/Flutter.podspec 
+# macOS 
+macos/Pods/ 
+macos/Flutter/ephemeral/ 
+# Linux 
+# Linux 
+# Windows 
+windows/flutter/ephemeral/ 
+# Web 
+build/web/ 
+# Environment / secrets 
+.env 
+*.env 
